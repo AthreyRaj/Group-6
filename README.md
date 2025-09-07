@@ -45,7 +45,7 @@ This ensures efficient water usage, reduces wastage, and helps farmers maintain 
 - Abin Shaju (2362502)  
 - Athrey K Raj (2362508)  
 - Aryan Subudhi (2362507)  
-- KS Krithick  
+- KS Krithick (2361042)
 
 ---
 
@@ -57,7 +57,7 @@ The project is simulated in **Cisco Packet Tracer** with IoT devices configured 
 ## Screenshots
 
 ### Water Level High (Sprinklers Off)
-![Water Level High](images/smart_irrigation_high.png)
+![Water Level High](images/smart_irrigation_high)
 
 ### Water Level Low (Sprinklers On)
-![Water Level Low](images/smart_irrigation_low.png)
+![Water Level Low](images/smart_irrigation_low)
