@@ -56,8 +56,8 @@ The project is simulated in **Cisco Packet Tracer** with IoT devices configured 
 
 ## Screenshots
 
-### Water Level High (Sprinklers Off)
+### Water Level High (Sprinklers on)
 ![Water Level High](images/smart_irrigation_high.jpeg)
 
-### Water Level Low (Sprinklers On)
+### Water Level Low (Sprinklers Off)
 ![Water Level Low](images/smart_irrigation_low.jpeg)
